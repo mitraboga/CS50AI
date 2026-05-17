@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-green?logo=scikitlearn">
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?logo=tensorflow">
   <img src="https://img.shields.io/badge/NLP-Transformers-blueviolet">
+  <img src="https://img.shields.io/badge/Transformer%20AI-BERT%20%26%20Attention-ff69b4?logo=huggingface" alt="Transformer AI">
 </p>
 
 <img src="CS50AI_BANNER.png" alt="CS50AI HEADER" width="100%">
