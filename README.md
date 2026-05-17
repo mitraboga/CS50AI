@@ -26,6 +26,14 @@
 
 This repository contains my completed project work for **Harvard CS50's Introduction to Artificial Intelligence with Python**.
 
+I completed all **12 CS50AI projects**, covering the full course journey from classical search algorithms to modern transformer-based natural language processing. Completing these projects earned me the **CS50AI Certificate from Harvard University**, validating my hands-on understanding of core artificial intelligence concepts and my ability to implement them in Python.
+
+This repository is more than a course archive.
+
+It is a portfolio of AI foundations.
+
+Each project represents a different layer of intelligent systems: how machines search, reason, predict, learn, and understand language.
+
 CS50AI covers the core ideas behind modern artificial intelligence, including:
 
 - Search algorithms
@@ -42,13 +50,17 @@ CS50AI covers the core ideas behind modern artificial intelligence, including:
 - Natural language processing
 - Transformer-based attention models
 
-The best part?
+---
 
-This course does not just teach AI as theory.
+# 🎓 CS50AI Certificate
 
-It forces you to build.
+Completing all 12 CS50AI projects earned me the **CS50AI Certificate from Harvard University**.
 
-Each project takes one major AI concept and turns it into a working Python program.
+This certificate represents my completion of Harvard's artificial intelligence curriculum, including hands-on work across search, logic, probability, optimization, machine learning, neural networks, and natural language processing.
+
+<p align="center">
+  <img src="CS50AI_CERTIFICATE.png" alt="CS50AI Certificate from Harvard University" width="85%">
+</p>
 
 ---
 
