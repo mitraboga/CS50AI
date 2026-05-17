@@ -2,7 +2,7 @@
 
 # CS50AI
 
-### Harvard CS50's Introduction to Artificial Intelligence with Python — Complete Project Portfolio
+### Harvard CS50's Introduction to Artificial Intelligence with Python — 12 Project Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python">
