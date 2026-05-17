@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/NLP-Transformers-blueviolet">
 </p>
 
-<img src="assets/CS50AI_BANNER.png" alt="CS50AI HEADER" width="100%">
+<img src="CS50AI_BANNER.png" alt="CS50AI HEADER" width="100%">
 
 </div>
 
