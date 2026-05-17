@@ -427,7 +427,7 @@ That idea powers robotics, game AI, recommendation systems, autonomous systems, 
 
 ### Enhanced Repository
 
-[View Enhanced Nim Project](https://github.com/YOUR_USERNAME/YOUR_NIM_REPO)
+[View Enhanced Nim Project](https://github.com/mitraboga/ReinforcementArena)
 
 ---
 
@@ -437,7 +437,7 @@ That idea powers robotics, game AI, recommendation systems, autonomous systems, 
 
 The original CS50AI PageRank project implements Google’s classic ranking algorithm using both sampling and iterative convergence.
 
-For the enhanced version, I treated PageRank as more than a search-engine concept.
+For the enhanced version, I treated PageRank as more than a search engine concept.
 
 I rebuilt it as a graph intelligence project.
 
@@ -468,7 +468,7 @@ The enhanced version can showcase:
 
 ### Why I Enhanced PageRank
 
-PageRank is one of the most important algorithms in internet history.
+PageRank is one of the most important algorithms in Internet history.
 
 But the deeper lesson is bigger than web pages.
 
@@ -536,7 +536,7 @@ That question is central to NLP, explainable AI, and modern LLM systems.
 
 ### Enhanced Repository
 
-[View Enhanced Attention Project](https://github.com/YOUR_USERNAME/YOUR_ATTENTION_REPO)
+[View Enhanced Attention Project](https://github.com/mitraboga/BERTokenScope)
 
 ---
 
