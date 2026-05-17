@@ -59,7 +59,7 @@ Completing all 12 CS50AI projects earned me the **CS50AI Certificate from Harvar
 This certificate represents my completion of Harvard's artificial intelligence curriculum, including hands-on work across search, logic, probability, optimization, machine learning, neural networks, and natural language processing.
 
 <p align="center">
-  <img src="CS50AI_CERTIFICATE.png" alt="CS50AI Certificate from Harvard University" width="100%">
+  <img src="CS50AI_CERTIFICATE.png" alt="CS50AI Certificate from Harvard University" width="85%">
 </p>
 
 ---
